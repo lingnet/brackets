@@ -13,11 +13,11 @@
         "SHA": ""
     },
     "devDependencies": {
-        "grunt": "0.4.1",
+        "grunt": "1.5.3",
         "jasmine-node": "1.11.0",
         "grunt-jasmine-node": "0.1.0",
         "grunt-cli": "0.1.9",
-        "phantomjs": "1.9.13",
+        "phantomjs": "2.1.7",
         "grunt-lib-phantomjs": "0.3.0",
         "grunt-contrib-jshint": "0.6.0",
         "grunt-contrib-watch": "0.4.3",
@@ -35,7 +35,7 @@
         "grunt-usemin": "0.1.11",
         "load-grunt-tasks": "0.2.0",
         "q": "0.9.2",
-        "semver": "^4.1.0",
+        "semver": "^7.6.2",
         "jshint": "2.1.4",
         "xmldoc": "^0.1.2"
     },
